@@ -1,2 +1,3 @@
 # Passenger-Counter
-This is pretty simple basically it counts Passengers
+This is pretty simple basically it counts the re-curing numbers of passenger in vehicles, cars.
+Counting the Passengers is indeed easier with an app I guess...
